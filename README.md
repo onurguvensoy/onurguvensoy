@@ -1,11 +1,3 @@
-
-
-# Hi there, I'm Onur Guvensoy! 
-
-Welcome to my GitHub profile! I'm a passionate developer who enjoys building efficient, user-friendly, and scalable applications. From backend algorithms to intuitive frontends, I love solving problems and creating impactful software solutions.
-
----
-
 ##  About Me
 -  Hi, I’m @onurguvensoy
 -  I’m interested in Web Development.
@@ -23,19 +15,6 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building eff
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
----
-
-##  Featured Projects
-
-### [Forum App](https://github.com/onurguvensoy/forum-app)
-A forum application allowing users to create, read, update, and delete posts. Built with Node.js, MongoDB, and responsive design principles.
-
-### [Flight Route Planner](https://github.com/onurguvensoy/Flight-Route-Planner)
-A Java-based application featuring Dijkstra's algorithm and Java Swing GUI to plan and visualize optimal flight routes between cities.
-
-
----
 
 ##  GitHub Stats
 
